@@ -645,7 +645,7 @@ function DiscordLib:Window(text,mainclr,cls)
 		GlowChannel.Position = UDim2.new(0, -33, 0, -91)
 		GlowChannel.Size = UDim2.new(1.06396091, 30, 0.228228226, 30)
 		GlowChannel.ZIndex = 0
-		GlowChannel.Image = "rbxassetid://4996891970"
+		GlowChannel.Image = "rbxassetid://16865469081"
 		GlowChannel.ImageColor3 = Color3.fromRGB(15, 15, 15)
 		GlowChannel.ScaleType = Enum.ScaleType.Slice
 		GlowChannel.SliceCenter = Rect.new(20, 20, 280, 280)
@@ -1261,7 +1261,7 @@ function DiscordLib:Window(text,mainclr,cls)
 				GlowBubble.Position = UDim2.new(0, -15, 0, -15)
 				GlowBubble.Size = UDim2.new(1, 30, 1, 30)
 				GlowBubble.ZIndex = 0
-				GlowBubble.Image = "rbxassetid://4996891970"
+				GlowBubble.Image = "rbxassetid://16865469081"
 				GlowBubble.ImageColor3 = Color3.fromRGB(15, 15, 15)
 				GlowBubble.ScaleType = Enum.ScaleType.Slice
 				GlowBubble.SliceCenter = Rect.new(20, 20, 280, 280)
@@ -1776,7 +1776,7 @@ function DiscordLib:Window(text,mainclr,cls)
 				Color.Position = UDim2.new(0, 10, 0, 10)
 				Color.Size = UDim2.new(0, 154, 0, 118)
 				Color.ZIndex = 10
-				Color.Image = "rbxassetid://4155801252"
+				Color.Image = "rbxassetid://16865469081"
 
 				ColorCorner.CornerRadius = UDim.new(0, 3)
 				ColorCorner.Name = "ColorCorner"
@@ -2379,7 +2379,7 @@ ImageButton.Parent = ScreenGui
 ImageButton.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 ImageButton.Position = UDim2.new(0.10615778, 0, 0.16217947, 0)
 ImageButton.Size = UDim2.new(0.0627121851, 0, 0.107579626, 0)
-ImageButton.Image = "rbxassetid://13717478897"
+ImageButton.Image = "rbxassetid://16865469081"
 
 UICorner.CornerRadius = UDim.new(0, 30)
 UICorner.Parent = ImageButton
@@ -4851,7 +4851,7 @@ function InfAb()
 			inf.Rotation = NumberRange.new(0, 0)
 			inf.Speed = NumberRange.new(30, 30)
 			inf.SpreadAngle = Vector2.new(360,360)
-			inf.Texture = "rbxassetid://243098098"
+			inf.Texture = "rbxassetid://16865469081"
 			inf.VelocityInheritance = 0
 			inf.ZOffset = 2
 			inf.Transparency = NumberSequence.new(0)
